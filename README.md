@@ -6,6 +6,7 @@ My Daily progress of leetcode can be accessed here.
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Priyanka17panda/LeetCode/tree/master/0075-sort-colors) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Math
 |  |
@@ -19,4 +20,12 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Priyanka17panda/LeetCode/tree/master/0155-min-stack) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Priyanka17panda/LeetCode/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Priyanka17panda/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
