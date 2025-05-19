@@ -9,10 +9,12 @@ My Daily progress of leetcode can be accessed here.
 | [0075-sort-colors](https://github.com/Priyanka17panda/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Priyanka17panda/LeetCode/tree/master/0217-contains-duplicate) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [3321-type-of-triangle](https://github.com/Priyanka17panda/LeetCode/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
 | ------- |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [3321-type-of-triangle](https://github.com/Priyanka17panda/LeetCode/tree/master/3321-type-of-triangle) |
 ## Stack
 |  |
 | ------- |
@@ -30,6 +32,7 @@ My Daily progress of leetcode can be accessed here.
 | ------- |
 | [0075-sort-colors](https://github.com/Priyanka17panda/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Priyanka17panda/LeetCode/tree/master/0217-contains-duplicate) |
+| [3321-type-of-triangle](https://github.com/Priyanka17panda/LeetCode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
