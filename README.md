@@ -18,6 +18,7 @@ My Daily progress of leetcode can be accessed here.
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Priyanka17panda/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/Priyanka17panda/LeetCode/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -37,4 +38,12 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Priyanka17panda/LeetCode/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Priyanka17panda/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Priyanka17panda/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
