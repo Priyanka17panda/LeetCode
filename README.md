@@ -7,6 +7,7 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Priyanka17panda/LeetCode/tree/master/0075-sort-colors) |
+| [0119-pascals-triangle-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/Priyanka17panda/LeetCode/tree/master/0217-contains-duplicate) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3321-type-of-triangle](https://github.com/Priyanka17panda/LeetCode/tree/master/3321-type-of-triangle) |
@@ -46,4 +47,5 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Priyanka17panda/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0119-pascals-triangle-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
