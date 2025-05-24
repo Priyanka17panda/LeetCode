@@ -23,10 +23,12 @@ My Daily progress of leetcode can be accessed here.
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Priyanka17panda/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/Priyanka17panda/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Priyanka17panda/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Priyanka17panda/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Priyanka17panda/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +59,8 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Priyanka17panda/LeetCode/tree/master/0043-multiply-strings) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Priyanka17panda/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
