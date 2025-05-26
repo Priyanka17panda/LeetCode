@@ -16,6 +16,7 @@ My Daily progress of leetcode can be accessed here.
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Priyanka17panda/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Priyanka17panda/LeetCode/tree/master/0043-multiply-strings) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3321-type-of-triangle](https://github.com/Priyanka17panda/LeetCode/tree/master/3321-type-of-triangle) |
@@ -74,4 +75,8 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Priyanka17panda/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Priyanka17panda/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
