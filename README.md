@@ -6,6 +6,7 @@ My Daily progress of leetcode can be accessed here.
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/Priyanka17panda/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyanka17panda/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -97,6 +98,7 @@ My Daily progress of leetcode can be accessed here.
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
