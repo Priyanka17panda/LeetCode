@@ -6,6 +6,7 @@ My Daily progress of leetcode can be accessed here.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Priyanka17panda/LeetCode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Priyanka17panda/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Priyanka17panda/LeetCode/tree/master/0049-group-anagrams) |
@@ -65,6 +66,7 @@ My Daily progress of leetcode can be accessed here.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Priyanka17panda/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Priyanka17panda/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Priyanka17panda/LeetCode/tree/master/0217-contains-duplicate) |
 | [1635-number-of-good-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/1635-number-of-good-pairs) |
