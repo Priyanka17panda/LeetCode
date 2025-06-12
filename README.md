@@ -30,6 +30,7 @@ My Daily progress of leetcode can be accessed here.
 | ------- |
 | [0029-divide-two-integers](https://github.com/Priyanka17panda/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Priyanka17panda/LeetCode/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/Priyanka17panda/LeetCode/tree/master/0062-unique-paths) |
 | [1635-number-of-good-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3321-type-of-triangle](https://github.com/Priyanka17panda/LeetCode/tree/master/3321-type-of-triangle) |
@@ -88,6 +89,7 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Priyanka17panda/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/Priyanka17panda/LeetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Priyanka17panda/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## Simulation
@@ -139,4 +141,8 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Priyanka17panda/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Priyanka17panda/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
