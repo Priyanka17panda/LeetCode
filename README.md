@@ -28,6 +28,7 @@ My Daily progress of leetcode can be accessed here.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Priyanka17panda/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Priyanka17panda/LeetCode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Priyanka17panda/LeetCode/tree/master/0062-unique-paths) |
