@@ -25,6 +25,7 @@ My Daily progress of leetcode can be accessed here.
 | [1635-number-of-good-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Priyanka17panda/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Priyanka17panda/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3321-type-of-triangle](https://github.com/Priyanka17panda/LeetCode/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
@@ -67,6 +68,7 @@ My Daily progress of leetcode can be accessed here.
 | [0088-merge-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Priyanka17panda/LeetCode/tree/master/0217-contains-duplicate) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Priyanka17panda/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3321-type-of-triangle](https://github.com/Priyanka17panda/LeetCode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
@@ -116,6 +118,7 @@ My Daily progress of leetcode can be accessed here.
 | ------- |
 | [0179-largest-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0179-largest-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Priyanka17panda/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Priyanka17panda/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Counting
 |  |
 | ------- |
