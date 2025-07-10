@@ -26,6 +26,7 @@ My Daily progress of leetcode can be accessed here.
 | [1950-sign-of-the-product-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Priyanka17panda/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Priyanka17panda/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Priyanka17panda/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Priyanka17panda/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Priyanka17panda/LeetCode/tree/master/3321-type-of-triangle) |
 ## Math
@@ -102,6 +103,7 @@ My Daily progress of leetcode can be accessed here.
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Priyanka17panda/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Priyanka17panda/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Priyanka17panda/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Priyanka17panda/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -183,4 +185,8 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyanka17panda/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Priyanka17panda/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
