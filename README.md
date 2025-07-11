@@ -37,6 +37,7 @@ My Daily progress of leetcode can be accessed here.
 | [0043-multiply-strings](https://github.com/Priyanka17panda/LeetCode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Priyanka17panda/LeetCode/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Priyanka17panda/LeetCode/tree/master/0231-power-of-two) |
 | [1635-number-of-good-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3321-type-of-triangle](https://github.com/Priyanka17panda/LeetCode/tree/master/3321-type-of-triangle) |
@@ -140,6 +141,7 @@ My Daily progress of leetcode can be accessed here.
 | [0029-divide-two-integers](https://github.com/Priyanka17panda/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Priyanka17panda/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Priyanka17panda/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/Priyanka17panda/LeetCode/tree/master/0861-flipping-an-image) |
 ## Monotonic Stack
@@ -189,4 +191,8 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Priyanka17panda/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Priyanka17panda/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
