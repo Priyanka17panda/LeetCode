@@ -35,6 +35,7 @@ My Daily progress of leetcode can be accessed here.
 | [0009-palindrome-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Priyanka17panda/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Priyanka17panda/LeetCode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Priyanka17panda/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Priyanka17panda/LeetCode/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Priyanka17panda/LeetCode/tree/master/0231-power-of-two) |
@@ -194,5 +195,6 @@ My Daily progress of leetcode can be accessed here.
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Priyanka17panda/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Priyanka17panda/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
