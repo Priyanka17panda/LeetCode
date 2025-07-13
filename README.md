@@ -39,6 +39,7 @@ My Daily progress of leetcode can be accessed here.
 | [0062-unique-paths](https://github.com/Priyanka17panda/LeetCode/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Priyanka17panda/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Priyanka17panda/LeetCode/tree/master/0326-power-of-three) |
 | [1635-number-of-good-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3321-type-of-triangle](https://github.com/Priyanka17panda/LeetCode/tree/master/3321-type-of-triangle) |
@@ -197,4 +198,5 @@ My Daily progress of leetcode can be accessed here.
 | ------- |
 | [0050-powx-n](https://github.com/Priyanka17panda/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Priyanka17panda/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Priyanka17panda/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
