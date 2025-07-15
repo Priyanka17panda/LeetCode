@@ -22,6 +22,7 @@ My Daily progress of leetcode can be accessed here.
 | [0287-find-the-duplicate-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Priyanka17panda/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Priyanka17panda/LeetCode/tree/master/0861-flipping-an-image) |
+| [1603-running-sum-of-1d-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Priyanka17panda/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -194,6 +195,7 @@ My Daily progress of leetcode can be accessed here.
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Priyanka17panda/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Recursion
 |  |
