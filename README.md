@@ -89,6 +89,7 @@ My Daily progress of leetcode can be accessed here.
 | [0049-group-anagrams](https://github.com/Priyanka17panda/LeetCode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Priyanka17panda/LeetCode/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/Priyanka17panda/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanka17panda/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Priyanka17panda/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -104,6 +105,7 @@ My Daily progress of leetcode can be accessed here.
 | [0049-group-anagrams](https://github.com/Priyanka17panda/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Priyanka17panda/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0179-largest-number) |
+| [0290-word-pattern](https://github.com/Priyanka17panda/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanka17panda/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanka17panda/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Priyanka17panda/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
