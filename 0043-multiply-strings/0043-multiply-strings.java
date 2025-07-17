@@ -1,6 +1,6 @@
 class Solution {
     public String multiply(String num1, String num2) {
-        final int m = num1.length();
+         final int m = num1.length();
     final int n = num2.length();
 
     StringBuilder sb = new StringBuilder();
