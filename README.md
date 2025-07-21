@@ -44,6 +44,7 @@ My Daily progress of leetcode can be accessed here.
 | [0202-happy-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Priyanka17panda/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Priyanka17panda/LeetCode/tree/master/0326-power-of-three) |
+| [0504-base-7](https://github.com/Priyanka17panda/LeetCode/tree/master/0504-base-7) |
 | [1635-number-of-good-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3321-type-of-triangle](https://github.com/Priyanka17panda/LeetCode/tree/master/3321-type-of-triangle) |
@@ -116,6 +117,7 @@ My Daily progress of leetcode can be accessed here.
 | [0290-word-pattern](https://github.com/Priyanka17panda/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanka17panda/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanka17panda/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0504-base-7](https://github.com/Priyanka17panda/LeetCode/tree/master/0504-base-7) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Priyanka17panda/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Priyanka17panda/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Priyanka17panda/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
