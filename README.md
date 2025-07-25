@@ -224,6 +224,7 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Priyanka17panda/LeetCode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Priyanka17panda/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Priyanka17panda/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Priyanka17panda/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Priyanka17panda/LeetCode/tree/master/0342-power-of-four) |
@@ -244,4 +245,8 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Priyanka17panda/LeetCode/tree/master/1086-divisor-game) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Priyanka17panda/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
