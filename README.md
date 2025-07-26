@@ -47,6 +47,7 @@ My Daily progress of leetcode can be accessed here.
 | [0326-power-of-three](https://github.com/Priyanka17panda/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Priyanka17panda/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Priyanka17panda/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/Priyanka17panda/LeetCode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Priyanka17panda/LeetCode/tree/master/0504-base-7) |
 | [1086-divisor-game](https://github.com/Priyanka17panda/LeetCode/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Priyanka17panda/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -123,6 +124,7 @@ My Daily progress of leetcode can be accessed here.
 | [0290-word-pattern](https://github.com/Priyanka17panda/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanka17panda/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanka17panda/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Priyanka17panda/LeetCode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Priyanka17panda/LeetCode/tree/master/0504-base-7) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Priyanka17panda/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Priyanka17panda/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -141,6 +143,7 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Priyanka17panda/LeetCode/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/Priyanka17panda/LeetCode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/Priyanka17panda/LeetCode/tree/master/0861-flipping-an-image) |
 ## Queue
 |  |
