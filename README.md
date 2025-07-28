@@ -16,6 +16,7 @@ My Daily progress of leetcode can be accessed here.
 | [0088-merge-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Priyanka17panda/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanka17panda/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Priyanka17panda/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0179-largest-number) |
@@ -139,6 +140,7 @@ My Daily progress of leetcode can be accessed here.
 | [0062-unique-paths](https://github.com/Priyanka17panda/LeetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Priyanka17panda/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanka17panda/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1086-divisor-game](https://github.com/Priyanka17panda/LeetCode/tree/master/1086-divisor-game) |
 ## Simulation
 |  |
