@@ -61,6 +61,7 @@ My Daily progress of leetcode can be accessed here.
 | [0032-longest-valid-parentheses](https://github.com/Priyanka17panda/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyanka17panda/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyanka17panda/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Priyanka17panda/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Priyanka17panda/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Priyanka17panda/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [2128-reverse-prefix-of-word](https://github.com/Priyanka17panda/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -211,18 +212,21 @@ My Daily progress of leetcode can be accessed here.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyanka17panda/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Priyanka17panda/LeetCode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Priyanka17panda/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Priyanka17panda/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyanka17panda/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Priyanka17panda/LeetCode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Priyanka17panda/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Priyanka17panda/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyanka17panda/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Priyanka17panda/LeetCode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Priyanka17panda/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Priyanka17panda/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Prefix Sum
 |  |
