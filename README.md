@@ -10,6 +10,7 @@ My Daily progress of leetcode can be accessed here.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Priyanka17panda/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Priyanka17panda/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Priyanka17panda/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Priyanka17panda/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Priyanka17panda/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Priyanka17panda/LeetCode/tree/master/0078-subsets) |
@@ -142,6 +143,7 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Priyanka17panda/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/Priyanka17panda/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Priyanka17panda/LeetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Priyanka17panda/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -259,6 +261,7 @@ My Daily progress of leetcode can be accessed here.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Priyanka17panda/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Priyanka17panda/LeetCode/tree/master/0169-majority-element) |
 ## Brainteaser
 |  |
