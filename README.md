@@ -48,6 +48,7 @@ My Daily progress of leetcode can be accessed here.
 | [0062-unique-paths](https://github.com/Priyanka17panda/LeetCode/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Priyanka17panda/LeetCode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Priyanka17panda/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Priyanka17panda/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Priyanka17panda/LeetCode/tree/master/0371-sum-of-two-integers) |
