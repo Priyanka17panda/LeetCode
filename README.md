@@ -33,6 +33,7 @@ My Daily progress of leetcode can be accessed here.
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Priyanka17panda/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/Priyanka17panda/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Priyanka17panda/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Priyanka17panda/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -213,6 +214,7 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Priyanka17panda/LeetCode/tree/master/0861-flipping-an-image) |
+| [1791-richest-customer-wealth](https://github.com/Priyanka17panda/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Backtracking
 |  |
 | ------- |
