@@ -29,6 +29,7 @@ My Daily progress of leetcode can be accessed here.
 | [0724-find-pivot-index](https://github.com/Priyanka17panda/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Priyanka17panda/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Priyanka17panda/LeetCode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Priyanka17panda/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Priyanka17panda/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -172,6 +173,7 @@ My Daily progress of leetcode can be accessed here.
 | [0043-multiply-strings](https://github.com/Priyanka17panda/LeetCode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Priyanka17panda/LeetCode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/Priyanka17panda/LeetCode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/0898-transpose-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Queue
 |  |
@@ -220,6 +222,7 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Priyanka17panda/LeetCode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Priyanka17panda/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Priyanka17panda/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Backtracking
