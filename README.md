@@ -33,6 +33,7 @@ My Daily progress of leetcode can be accessed here.
 | [0882-peak-index-in-a-mountain-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Priyanka17panda/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Priyanka17panda/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -69,6 +70,7 @@ My Daily progress of leetcode can be accessed here.
 | [0504-base-7](https://github.com/Priyanka17panda/LeetCode/tree/master/0504-base-7) |
 | [1086-divisor-game](https://github.com/Priyanka17panda/LeetCode/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Priyanka17panda/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Priyanka17panda/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Priyanka17panda/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -179,6 +181,7 @@ My Daily progress of leetcode can be accessed here.
 | [0412-fizz-buzz](https://github.com/Priyanka17panda/LeetCode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/Priyanka17panda/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/0898-transpose-matrix) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Queue
 |  |
