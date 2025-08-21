@@ -72,6 +72,7 @@ My Daily progress of leetcode can be accessed here.
 | [0504-base-7](https://github.com/Priyanka17panda/LeetCode/tree/master/0504-base-7) |
 | [1086-divisor-game](https://github.com/Priyanka17panda/LeetCode/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Priyanka17panda/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Priyanka17panda/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Priyanka17panda/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Priyanka17panda/LeetCode/tree/master/1448-maximum-69-number) |
@@ -231,6 +232,7 @@ My Daily progress of leetcode can be accessed here.
 | [0287-find-the-duplicate-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Priyanka17panda/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Priyanka17panda/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [3790-fruits-into-baskets-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
