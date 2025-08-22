@@ -215,6 +215,7 @@ My Daily progress of leetcode can be accessed here.
 | [0029-divide-two-integers](https://github.com/Priyanka17panda/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Priyanka17panda/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Priyanka17panda/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Priyanka17panda/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Priyanka17panda/LeetCode/tree/master/0342-power-of-four) |
@@ -320,6 +321,7 @@ My Daily progress of leetcode can be accessed here.
 | ------- |
 | [0053-maximum-subarray](https://github.com/Priyanka17panda/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Priyanka17panda/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Priyanka17panda/LeetCode/tree/master/0190-reverse-bits) |
 ## Brainteaser
 |  |
 | ------- |
