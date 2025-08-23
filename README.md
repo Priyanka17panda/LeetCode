@@ -177,6 +177,7 @@ My Daily progress of leetcode can be accessed here.
 | [0119-pascals-triangle-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanka17panda/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Priyanka17panda/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Priyanka17panda/LeetCode/tree/master/0338-counting-bits) |
 | [1086-divisor-game](https://github.com/Priyanka17panda/LeetCode/tree/master/1086-divisor-game) |
 ## Simulation
 |  |
@@ -218,6 +219,7 @@ My Daily progress of leetcode can be accessed here.
 | [0190-reverse-bits](https://github.com/Priyanka17panda/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Priyanka17panda/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Priyanka17panda/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Priyanka17panda/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Priyanka17panda/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0861-flipping-an-image](https://github.com/Priyanka17panda/LeetCode/tree/master/0861-flipping-an-image) |
