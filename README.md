@@ -7,6 +7,7 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyanka17panda/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Priyanka17panda/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Priyanka17panda/LeetCode/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Priyanka17panda/LeetCode/tree/master/0035-search-insert-position) |
@@ -152,6 +153,7 @@ My Daily progress of leetcode can be accessed here.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanka17panda/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Priyanka17panda/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Priyanka17panda/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Priyanka17panda/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Priyanka17panda/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Priyanka17panda/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Priyanka17panda/LeetCode/tree/master/0038-count-and-say) |
@@ -365,4 +367,8 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Priyanka17panda/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Priyanka17panda/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
