@@ -9,6 +9,7 @@ My Daily progress of leetcode can be accessed here.
 | [0001-two-sum](https://github.com/Priyanka17panda/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Priyanka17panda/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Priyanka17panda/LeetCode/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/Priyanka17panda/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Priyanka17panda/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Priyanka17panda/LeetCode/tree/master/0049-group-anagrams) |
@@ -102,6 +103,7 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Priyanka17panda/LeetCode/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/Priyanka17panda/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Priyanka17panda/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Priyanka17panda/LeetCode/tree/master/0125-valid-palindrome) |
