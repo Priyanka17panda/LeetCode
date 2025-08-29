@@ -125,6 +125,7 @@ My Daily progress of leetcode can be accessed here.
 | [0179-largest-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Priyanka17panda/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/Priyanka17panda/LeetCode/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Priyanka17panda/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/Priyanka17panda/LeetCode/tree/master/1970-sorting-the-sentence) |
@@ -145,6 +146,7 @@ My Daily progress of leetcode can be accessed here.
 | [0229-majority-element-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Priyanka17panda/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanka17panda/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Priyanka17panda/LeetCode/tree/master/0389-find-the-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Priyanka17panda/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Priyanka17panda/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -167,6 +169,7 @@ My Daily progress of leetcode can be accessed here.
 | [0290-word-pattern](https://github.com/Priyanka17panda/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanka17panda/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanka17panda/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Priyanka17panda/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Priyanka17panda/LeetCode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Priyanka17panda/LeetCode/tree/master/0504-base-7) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Priyanka17panda/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -231,6 +234,7 @@ My Daily progress of leetcode can be accessed here.
 | [0338-counting-bits](https://github.com/Priyanka17panda/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Priyanka17panda/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Priyanka17panda/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/Priyanka17panda/LeetCode/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/Priyanka17panda/LeetCode/tree/master/0861-flipping-an-image) |
 ## Monotonic Stack
 |  |
