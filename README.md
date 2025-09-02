@@ -30,6 +30,7 @@ My Daily progress of leetcode can be accessed here.
 | [0217-contains-duplicate](https://github.com/Priyanka17panda/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Priyanka17panda/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0498-diagonal-traverse](https://github.com/Priyanka17panda/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanka17panda/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Priyanka17panda/LeetCode/tree/master/0724-find-pivot-index) |
@@ -114,6 +115,7 @@ My Daily progress of leetcode can be accessed here.
 | [0202-happy-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanka17panda/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Priyanka17panda/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Priyanka17panda/LeetCode/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/Priyanka17panda/LeetCode/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -130,6 +132,7 @@ My Daily progress of leetcode can be accessed here.
 | [0179-largest-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Priyanka17panda/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Priyanka17panda/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Priyanka17panda/LeetCode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanka17panda/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -151,6 +154,7 @@ My Daily progress of leetcode can be accessed here.
 | [0217-contains-duplicate](https://github.com/Priyanka17panda/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Priyanka17panda/LeetCode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Priyanka17panda/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanka17panda/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Priyanka17panda/LeetCode/tree/master/0389-find-the-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Priyanka17panda/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -256,6 +260,7 @@ My Daily progress of leetcode can be accessed here.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Priyanka17panda/LeetCode/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Priyanka17panda/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Priyanka17panda/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Priyanka17panda/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
