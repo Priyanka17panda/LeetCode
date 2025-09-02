@@ -95,12 +95,14 @@ My Daily progress of leetcode can be accessed here.
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanka17panda/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Priyanka17panda/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Priyanka17panda/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Priyanka17panda/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [2128-reverse-prefix-of-word](https://github.com/Priyanka17panda/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Priyanka17panda/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Priyanka17panda/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Priyanka17panda/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -211,6 +213,7 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Priyanka17panda/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Priyanka17panda/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanka17panda/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
