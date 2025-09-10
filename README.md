@@ -194,6 +194,7 @@ My Daily progress of leetcode can be accessed here.
 | [0961-long-pressed-name](https://github.com/Priyanka17panda/LeetCode/tree/master/0961-long-pressed-name) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Priyanka17panda/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Priyanka17panda/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1764-maximum-repeating-substring](https://github.com/Priyanka17panda/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1970-sorting-the-sentence](https://github.com/Priyanka17panda/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/Priyanka17panda/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Priyanka17panda/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -211,6 +212,7 @@ My Daily progress of leetcode can be accessed here.
 | [0338-counting-bits](https://github.com/Priyanka17panda/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Priyanka17panda/LeetCode/tree/master/0392-is-subsequence) |
 | [1086-divisor-game](https://github.com/Priyanka17panda/LeetCode/tree/master/1086-divisor-game) |
+| [1764-maximum-repeating-substring](https://github.com/Priyanka17panda/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Simulation
 |  |
 | ------- |
@@ -412,4 +414,8 @@ My Daily progress of leetcode can be accessed here.
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Priyanka17panda/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1185-find-in-mountain-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1185-find-in-mountain-array) |
+## String Matching
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/Priyanka17panda/LeetCode/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
