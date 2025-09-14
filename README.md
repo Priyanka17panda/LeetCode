@@ -41,6 +41,7 @@ My Daily progress of leetcode can be accessed here.
 | [0861-flipping-an-image](https://github.com/Priyanka17panda/LeetCode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/0898-transpose-matrix) |
+| [1006-vowel-spellchecker](https://github.com/Priyanka17panda/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1185-find-in-mountain-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -168,6 +169,7 @@ My Daily progress of leetcode can be accessed here.
 | [0349-intersection-of-two-arrays](https://github.com/Priyanka17panda/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanka17panda/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Priyanka17panda/LeetCode/tree/master/0389-find-the-difference) |
+| [1006-vowel-spellchecker](https://github.com/Priyanka17panda/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Priyanka17panda/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Priyanka17panda/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -198,6 +200,7 @@ My Daily progress of leetcode can be accessed here.
 | [0657-robot-return-to-origin](https://github.com/Priyanka17panda/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0961-long-pressed-name](https://github.com/Priyanka17panda/LeetCode/tree/master/0961-long-pressed-name) |
+| [1006-vowel-spellchecker](https://github.com/Priyanka17panda/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Priyanka17panda/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Priyanka17panda/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1764-maximum-repeating-substring](https://github.com/Priyanka17panda/LeetCode/tree/master/1764-maximum-repeating-substring) |
