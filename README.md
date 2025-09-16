@@ -204,6 +204,7 @@ My Daily progress of leetcode can be accessed here.
 | [1006-vowel-spellchecker](https://github.com/Priyanka17panda/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Priyanka17panda/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Priyanka17panda/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Priyanka17panda/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1764-maximum-repeating-substring](https://github.com/Priyanka17panda/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Priyanka17panda/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Priyanka17panda/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
