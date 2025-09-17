@@ -204,6 +204,7 @@ My Daily progress of leetcode can be accessed here.
 | [1006-vowel-spellchecker](https://github.com/Priyanka17panda/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Priyanka17panda/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Priyanka17panda/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Priyanka17panda/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Priyanka17panda/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1764-maximum-repeating-substring](https://github.com/Priyanka17panda/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Priyanka17panda/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -298,6 +299,7 @@ My Daily progress of leetcode can be accessed here.
 | [0882-peak-index-in-a-mountain-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Priyanka17panda/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Priyanka17panda/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Priyanka17panda/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [3790-fruits-into-baskets-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
@@ -327,6 +329,7 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanka17panda/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Priyanka17panda/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 ## Tree
 |  |
 | ------- |
@@ -365,6 +368,7 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Priyanka17panda/LeetCode/tree/master/0724-find-pivot-index) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Priyanka17panda/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1603-running-sum-of-1d-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Priyanka17panda/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Priyanka17panda/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
