@@ -85,6 +85,7 @@ My Daily progress of leetcode can be accessed here.
 | [0412-fizz-buzz](https://github.com/Priyanka17panda/LeetCode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Priyanka17panda/LeetCode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanka17panda/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/Priyanka17panda/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1086-divisor-game](https://github.com/Priyanka17panda/LeetCode/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Priyanka17panda/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Priyanka17panda/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
