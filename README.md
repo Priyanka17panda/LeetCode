@@ -62,6 +62,7 @@ My Daily progress of leetcode can be accessed here.
 | [1950-sign-of-the-product-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Priyanka17panda/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Priyanka17panda/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Priyanka17panda/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Priyanka17panda/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Priyanka17panda/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -99,6 +100,7 @@ My Daily progress of leetcode can be accessed here.
 | [1448-maximum-69-number](https://github.com/Priyanka17panda/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Priyanka17panda/LeetCode/tree/master/2383-add-two-integers) |
 | [3321-type-of-triangle](https://github.com/Priyanka17panda/LeetCode/tree/master/3321-type-of-triangle) |
 ## Stack
@@ -256,6 +258,7 @@ My Daily progress of leetcode can be accessed here.
 | [0898-transpose-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Priyanka17panda/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Queue
 |  |
@@ -342,6 +345,7 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Priyanka17panda/LeetCode/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Sliding Window
 |  |
 | ------- |
