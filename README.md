@@ -99,6 +99,7 @@ My Daily progress of leetcode can be accessed here.
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Priyanka17panda/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Priyanka17panda/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/Priyanka17panda/LeetCode/tree/master/1642-water-bottles) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Priyanka17panda/LeetCode/tree/master/2383-add-two-integers) |
@@ -257,6 +258,7 @@ My Daily progress of leetcode can be accessed here.
 | [0861-flipping-an-image](https://github.com/Priyanka17panda/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1642-water-bottles](https://github.com/Priyanka17panda/LeetCode/tree/master/1642-water-bottles) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Priyanka17panda/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
