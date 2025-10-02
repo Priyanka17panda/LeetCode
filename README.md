@@ -103,6 +103,7 @@ My Daily progress of leetcode can be accessed here.
 | [1950-sign-of-the-product-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Priyanka17panda/LeetCode/tree/master/2383-add-two-integers) |
+| [2752-sum-multiples](https://github.com/Priyanka17panda/LeetCode/tree/master/2752-sum-multiples) |
 | [3321-type-of-triangle](https://github.com/Priyanka17panda/LeetCode/tree/master/3321-type-of-triangle) |
 ## Stack
 |  |
