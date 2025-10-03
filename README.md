@@ -60,6 +60,7 @@ My Daily progress of leetcode can be accessed here.
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Priyanka17panda/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Priyanka17panda/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Priyanka17panda/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Priyanka17panda/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Priyanka17panda/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -143,6 +144,7 @@ My Daily progress of leetcode can be accessed here.
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Priyanka17panda/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2128-reverse-prefix-of-word](https://github.com/Priyanka17panda/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Priyanka17panda/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Priyanka17panda/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
@@ -229,6 +231,7 @@ My Daily progress of leetcode can be accessed here.
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Priyanka17panda/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1970-sorting-the-sentence](https://github.com/Priyanka17panda/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/Priyanka17panda/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Priyanka17panda/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Priyanka17panda/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Priyanka17panda/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/Priyanka17panda/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
