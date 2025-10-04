@@ -106,6 +106,7 @@ My Daily progress of leetcode can be accessed here.
 | [2383-add-two-integers](https://github.com/Priyanka17panda/LeetCode/tree/master/2383-add-two-integers) |
 | [2752-sum-multiples](https://github.com/Priyanka17panda/LeetCode/tree/master/2752-sum-multiples) |
 | [3321-type-of-triangle](https://github.com/Priyanka17panda/LeetCode/tree/master/3321-type-of-triangle) |
+| [3567-convert-date-to-binary](https://github.com/Priyanka17panda/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Stack
 |  |
 | ------- |
@@ -235,6 +236,7 @@ My Daily progress of leetcode can be accessed here.
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Priyanka17panda/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Priyanka17panda/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/Priyanka17panda/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3567-convert-date-to-binary](https://github.com/Priyanka17panda/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Priyanka17panda/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
