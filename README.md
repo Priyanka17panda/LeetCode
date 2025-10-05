@@ -102,6 +102,7 @@ My Daily progress of leetcode can be accessed here.
 | [1635-number-of-good-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Priyanka17panda/LeetCode/tree/master/1642-water-bottles) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2032-largest-odd-number-in-string](https://github.com/Priyanka17panda/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Priyanka17panda/LeetCode/tree/master/2383-add-two-integers) |
 | [2752-sum-multiples](https://github.com/Priyanka17panda/LeetCode/tree/master/2752-sum-multiples) |
@@ -231,6 +232,7 @@ My Daily progress of leetcode can be accessed here.
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Priyanka17panda/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Priyanka17panda/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1970-sorting-the-sentence](https://github.com/Priyanka17panda/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [2032-largest-odd-number-in-string](https://github.com/Priyanka17panda/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Priyanka17panda/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Priyanka17panda/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Priyanka17panda/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -280,6 +282,7 @@ My Daily progress of leetcode can be accessed here.
 | [0179-largest-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1448-maximum-69-number](https://github.com/Priyanka17panda/LeetCode/tree/master/1448-maximum-69-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Priyanka17panda/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Priyanka17panda/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Priyanka17panda/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Priyanka17panda/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
