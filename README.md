@@ -85,6 +85,7 @@ My Daily progress of leetcode can be accessed here.
 | [0202-happy-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Priyanka17panda/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/Priyanka17panda/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Priyanka17panda/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Priyanka17panda/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Priyanka17panda/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -427,10 +428,12 @@ My Daily progress of leetcode can be accessed here.
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Priyanka17panda/LeetCode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Priyanka17panda/LeetCode/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Priyanka17panda/LeetCode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Priyanka17panda/LeetCode/tree/master/1086-divisor-game) |
 ## Linked List
 |  |
