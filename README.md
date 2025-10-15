@@ -61,6 +61,7 @@ My Daily progress of leetcode can be accessed here.
 | [1791-richest-customer-wealth](https://github.com/Priyanka17panda/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Priyanka17panda/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Priyanka17panda/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Priyanka17panda/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Priyanka17panda/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Priyanka17panda/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -105,6 +106,7 @@ My Daily progress of leetcode can be accessed here.
 | [1642-water-bottles](https://github.com/Priyanka17panda/LeetCode/tree/master/1642-water-bottles) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Priyanka17panda/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Priyanka17panda/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanka17panda/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Priyanka17panda/LeetCode/tree/master/2383-add-two-integers) |
@@ -318,6 +320,7 @@ My Daily progress of leetcode can be accessed here.
 | [0389-find-the-difference](https://github.com/Priyanka17panda/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Priyanka17panda/LeetCode/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/Priyanka17panda/LeetCode/tree/master/0861-flipping-an-image) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Priyanka17panda/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Priyanka17panda/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Monotonic Stack
 |  |
@@ -356,6 +359,7 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Priyanka17panda/LeetCode/tree/master/0078-subsets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Priyanka17panda/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Union Find
 |  |
 | ------- |
@@ -364,6 +368,7 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Priyanka17panda/LeetCode/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Priyanka17panda/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Sliding Window
 |  |
@@ -426,6 +431,7 @@ My Daily progress of leetcode can be accessed here.
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Priyanka17panda/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Priyanka17panda/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
