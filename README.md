@@ -59,6 +59,7 @@ My Daily progress of leetcode can be accessed here.
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Priyanka17panda/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Priyanka17panda/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Priyanka17panda/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1899-count-items-matching-a-rule](https://github.com/Priyanka17panda/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Priyanka17panda/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Priyanka17panda/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -237,6 +238,7 @@ My Daily progress of leetcode can be accessed here.
 | [1764-maximum-repeating-substring](https://github.com/Priyanka17panda/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Priyanka17panda/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Priyanka17panda/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1899-count-items-matching-a-rule](https://github.com/Priyanka17panda/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1970-sorting-the-sentence](https://github.com/Priyanka17panda/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanka17panda/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Priyanka17panda/LeetCode/tree/master/2128-reverse-prefix-of-word) |
