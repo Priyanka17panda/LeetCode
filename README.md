@@ -59,6 +59,7 @@ My Daily progress of leetcode can be accessed here.
 | [1635-number-of-good-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Priyanka17panda/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Priyanka17panda/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Priyanka17panda/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Priyanka17panda/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Priyanka17panda/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1899-count-items-matching-a-rule](https://github.com/Priyanka17panda/LeetCode/tree/master/1899-count-items-matching-a-rule) |
