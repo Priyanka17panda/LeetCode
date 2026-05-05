@@ -34,6 +34,7 @@ My Daily progress of leetcode can be accessed here.
 | [0189-rotate-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Priyanka17panda/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/Priyanka17panda/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanka17panda/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0414-third-maximum-number) |
@@ -150,6 +151,7 @@ My Daily progress of leetcode can be accessed here.
 | [0165-compare-version-numbers](https://github.com/Priyanka17panda/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Priyanka17panda/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanka17panda/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanka17panda/LeetCode/tree/master/0349-intersection-of-two-arrays) |
