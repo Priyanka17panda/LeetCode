@@ -40,6 +40,7 @@ My Daily progress of leetcode can be accessed here.
 | [0349-intersection-of-two-arrays](https://github.com/Priyanka17panda/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0414-third-maximum-number) |
 | [0498-diagonal-traverse](https://github.com/Priyanka17panda/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0560-subarray-sum-equals-k](https://github.com/Priyanka17panda/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanka17panda/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Priyanka17panda/LeetCode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Priyanka17panda/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -211,6 +212,7 @@ My Daily progress of leetcode can be accessed here.
 | [0349-intersection-of-two-arrays](https://github.com/Priyanka17panda/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanka17panda/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Priyanka17panda/LeetCode/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/Priyanka17panda/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1006-vowel-spellchecker](https://github.com/Priyanka17panda/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Priyanka17panda/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -430,6 +432,7 @@ My Daily progress of leetcode can be accessed here.
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Priyanka17panda/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Priyanka17panda/LeetCode/tree/master/0724-find-pivot-index) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Priyanka17panda/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1603-running-sum-of-1d-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1603-running-sum-of-1d-array) |
