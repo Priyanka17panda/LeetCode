@@ -14,6 +14,7 @@ My Daily progress of leetcode can be accessed here.
 | [0033-search-in-rotated-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Priyanka17panda/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Priyanka17panda/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Priyanka17panda/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Priyanka17panda/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/0054-spiral-matrix) |
@@ -88,6 +89,7 @@ My Daily progress of leetcode can be accessed here.
 | [0013-roman-to-integer](https://github.com/Priyanka17panda/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Priyanka17panda/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Priyanka17panda/LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Priyanka17panda/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Priyanka17panda/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Priyanka17panda/LeetCode/tree/master/0062-unique-paths) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Priyanka17panda/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -362,6 +364,7 @@ My Daily progress of leetcode can be accessed here.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Priyanka17panda/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Priyanka17panda/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/Priyanka17panda/LeetCode/tree/master/0861-flipping-an-image) |
