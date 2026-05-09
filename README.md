@@ -19,6 +19,7 @@ My Daily progress of leetcode can be accessed here.
 | [0053-maximum-subarray](https://github.com/Priyanka17panda/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Priyanka17panda/LeetCode/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/Priyanka17panda/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Priyanka17panda/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Priyanka17panda/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -202,6 +203,7 @@ My Daily progress of leetcode can be accessed here.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanka17panda/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Priyanka17panda/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Priyanka17panda/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Priyanka17panda/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Priyanka17panda/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Priyanka17panda/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0202-happy-number) |
@@ -368,6 +370,7 @@ My Daily progress of leetcode can be accessed here.
 | ------- |
 | [0048-rotate-image](https://github.com/Priyanka17panda/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Priyanka17panda/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Priyanka17panda/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/Priyanka17panda/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/0898-transpose-matrix) |
