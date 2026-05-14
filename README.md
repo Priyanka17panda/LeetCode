@@ -64,6 +64,7 @@ My Daily progress of leetcode can be accessed here.
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Priyanka17panda/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Priyanka17panda/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1539-kth-missing-positive-number](https://github.com/Priyanka17panda/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -375,6 +376,7 @@ My Daily progress of leetcode can be accessed here.
 | [1185-find-in-mountain-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Priyanka17panda/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Priyanka17panda/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1539-kth-missing-positive-number](https://github.com/Priyanka17panda/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Priyanka17panda/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [3790-fruits-into-baskets-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
