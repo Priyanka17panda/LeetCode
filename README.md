@@ -59,6 +59,7 @@ My Daily progress of leetcode can be accessed here.
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Priyanka17panda/LeetCode/tree/master/1137-height-checker) |
 | [1185-find-in-mountain-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1185-find-in-mountain-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyanka17panda/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Priyanka17panda/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Priyanka17panda/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -374,6 +375,7 @@ My Daily progress of leetcode can be accessed here.
 | [0792-binary-search](https://github.com/Priyanka17panda/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1185-find-in-mountain-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyanka17panda/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Priyanka17panda/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Priyanka17panda/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1539-kth-missing-positive-number](https://github.com/Priyanka17panda/LeetCode/tree/master/1539-kth-missing-positive-number) |
