@@ -45,6 +45,7 @@ My Daily progress of leetcode can be accessed here.
 | [0287-find-the-duplicate-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanka17panda/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0414-third-maximum-number) |
+| [0493-reverse-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/Priyanka17panda/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanka17panda/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -370,6 +371,7 @@ My Daily progress of leetcode can be accessed here.
 | [0287-find-the-duplicate-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanka17panda/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Priyanka17panda/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0493-reverse-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Priyanka17panda/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Priyanka17panda/LeetCode/tree/master/0792-binary-search) |
@@ -483,6 +485,7 @@ My Daily progress of leetcode can be accessed here.
 | [0169-majority-element](https://github.com/Priyanka17panda/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Priyanka17panda/LeetCode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/0493-reverse-pairs) |
 ## Brainteaser
 |  |
 | ------- |
@@ -511,10 +514,12 @@ My Daily progress of leetcode can be accessed here.
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting Sort
 |  |
@@ -538,4 +543,12 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Priyanka17panda/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
