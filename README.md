@@ -56,6 +56,7 @@ My Daily progress of leetcode can be accessed here.
 | [0861-flipping-an-image](https://github.com/Priyanka17panda/LeetCode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Priyanka17panda/LeetCode/tree/master/0898-transpose-matrix) |
+| [1004-max-consecutive-ones-iii](https://github.com/Priyanka17panda/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/Priyanka17panda/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Priyanka17panda/LeetCode/tree/master/1137-height-checker) |
@@ -379,6 +380,7 @@ My Daily progress of leetcode can be accessed here.
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Priyanka17panda/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Priyanka17panda/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Priyanka17panda/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyanka17panda/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Priyanka17panda/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
@@ -420,6 +422,7 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanka17panda/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/Priyanka17panda/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyanka17panda/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Priyanka17panda/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 ## Tree
@@ -461,6 +464,7 @@ My Daily progress of leetcode can be accessed here.
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanka17panda/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Priyanka17panda/LeetCode/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Priyanka17panda/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyanka17panda/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Priyanka17panda/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1603-running-sum-of-1d-array](https://github.com/Priyanka17panda/LeetCode/tree/master/1603-running-sum-of-1d-array) |
