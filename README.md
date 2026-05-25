@@ -98,6 +98,7 @@ My Daily progress of leetcode can be accessed here.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Priyanka17panda/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Priyanka17panda/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Priyanka17panda/LeetCode/tree/master/0029-divide-two-integers) |
@@ -477,6 +478,7 @@ My Daily progress of leetcode can be accessed here.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Priyanka17panda/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Priyanka17panda/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Priyanka17panda/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Priyanka17panda/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -512,6 +514,7 @@ My Daily progress of leetcode can be accessed here.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Priyanka17panda/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Priyanka17panda/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Priyanka17panda/LeetCode/tree/master/0203-remove-linked-list-elements) |
