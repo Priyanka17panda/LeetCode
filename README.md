@@ -107,6 +107,7 @@ My Daily progress of leetcode can be accessed here.
 | [0050-powx-n](https://github.com/Priyanka17panda/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Priyanka17panda/LeetCode/tree/master/0062-unique-paths) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Priyanka17panda/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0172-factorial-trailing-zeroes](https://github.com/Priyanka17panda/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Priyanka17panda/LeetCode/tree/master/0231-power-of-two) |
