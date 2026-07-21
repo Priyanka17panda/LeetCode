@@ -38,6 +38,7 @@ My Daily progress of leetcode can be accessed here.
 | [0169-majority-element](https://github.com/Priyanka17panda/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Priyanka17panda/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Priyanka17panda/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -378,6 +379,7 @@ My Daily progress of leetcode can be accessed here.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyanka17panda/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Priyanka17panda/LeetCode/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Priyanka17panda/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Priyanka17panda/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Priyanka17panda/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanka17panda/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -429,6 +431,7 @@ My Daily progress of leetcode can be accessed here.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanka17panda/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Priyanka17panda/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanka17panda/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyanka17panda/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Priyanka17panda/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -469,6 +472,7 @@ My Daily progress of leetcode can be accessed here.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Priyanka17panda/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanka17panda/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Priyanka17panda/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanka17panda/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
